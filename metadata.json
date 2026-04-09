@@ -1,0 +1,31 @@
+{
+  "name": "trump-psychology-analyzer",
+  "version": "2.0.0",
+  "displayName": "Trump Psychology Analyzer",
+  "displayName_zh": "特朗普心理分析器",
+  "description": "通过分析特朗普的公开言论，解读其意图和心理特征，中英双语输出。",
+  "description_en": "Analyze Trump's public statements to understand his intent and psychological traits, bilingual output.",
+  "author": "Compiled from public sources",
+  "tags": ["政治", "心理分析", "特朗普", "美国政治", "意图分析"],
+  "tags_en": ["politics", "psychology", "trump", "us-politics", "intent-analysis"],
+  "homepage": "",
+  "repository": "",
+  "license": "MIT",
+  "platform": ["workbuddy", "openclaw"],
+  "dependencies": [],
+  "read_when": ["分析特朗普言论", "意图分析", "心理特征分析"],
+  "features": [
+    "意图分析（核心目的、思维模式、逻辑链条）",
+    "心理分析（自恋指数、攻击性、受害心理）",
+    "受众定位（基本盘、温和派、媒体）",
+    "预测反应",
+    "中英双语输出"
+  ],
+  "examples": [
+    "分析特朗普对中国贸易战的言论",
+    "特朗普如何回应对他的法律诉讼",
+    "预测特朗普在俄乌冲突中的立场"
+  ],
+  "created": "2026-04-09",
+  "updated": "2026-04-09"
+}
